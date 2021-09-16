@@ -1,3 +1,6 @@
+| :warning:  ScratchAuth is now deprecated. It is recommended to convert to [sv³](https://github.com/LilJuiceBox491/sv3) ASAP, as ScratchAuth will no longer be maintained. All issues, PRs, e.t.c should be moved to sv³ to avoid false stream commits.   |
+|-----------------------------------------|
+
 # ScratchAuth
 
 A next-generation alternative to [ScratchVerifier](http://scratchverifier.ddns.net:8888/site) and [SV2](http://sv2-server.herokuapp.com/).  A public server is available at https://scratchauth.liljuicebox491.repl.co.
